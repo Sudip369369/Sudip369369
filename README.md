@@ -1,16 +1,54 @@
-## Hi there 👋
+# 👋 Hi, I'm Sudip GC
 
-<!--
-**Sudip369369/Sudip369369** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Software Developer | Problem Solver | Tech Enthusiast
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+Hi, I’m Sudip! I’m passionate about building efficient software solutions, exploring new technologies, and contributing to open-source projects. I love solving problems through code and continually improving my skills.
+
+---
+
+## 🛠️ Skills
+
+### Programming Languages:
+- C, C++, JavaScript, Python
+
+### Frontend Development:
+- React
+
+### Frameworks:
+- Django
+
+### Other Expertise:
+- Software Development, API Integration, and Basic DevOps Practices
+
+---
+
+## 🚀 Highlighted Projects
+
+### 🌟 [Portfolio Website](#)
+- **Description:** A personal portfolio showcasing my projects, skills, and achievements.
+- **Technologies:** React, CSS, JavaScript
+- **CURRENTLY NOT AVAILABLE**
+
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sudip369369&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sudip369369&layout=compact&theme=radical)
+
+---
+
+## 📫 Contact Me
+
+- **Email:** [not available](mailto:sudipgc@example.com)
+- **GitHub:** [https://github.com/Sudip369369](https://github.com/Sudip369369)
+- **LinkedIn:** [not available ](https://linkedin.com/)
+- **Portfolio:** [sudipgc.dev](https://sudipgc.com.np) 
+
+---
+
+Thank you for visiting my profile! If you like my work, consider giving it a ⭐ or connecting with me!
