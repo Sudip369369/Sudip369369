@@ -44,10 +44,10 @@ Hi, I’m Sudip! I’m passionate about building efficient software solutions, e
 
 ## 📫 Contact Me
 
-- **Email:** [not available](mailto:sudipgc@example.com)
+- **Email:** 
 - **GitHub:** [https://github.com/Sudip369369](https://github.com/Sudip369369)
-- **LinkedIn:** [not available ](https://linkedin.com/)
-- **Portfolio:** [sudipgc.dev](https://sudipgc.com.np) 
+- **LinkedIn:** 
+- **Portfolio:** 
 
 ---
 
