@@ -1,7 +1,5 @@
-# Hi there, I'm Sudip GC! 👋
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Aspiring+Software+Developer;Problem+Solver+%26+Tech+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Sudip+GC+%F0%9F%91%8B;Full+Stack+Developer;Problem+Solver+%26+Creator" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
