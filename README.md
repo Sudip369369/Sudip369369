@@ -10,7 +10,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </div>
 
----
+
 
 ## 🔥 **THE ARCHITECT BEHIND THE CODE**
 
@@ -56,7 +56,7 @@ console.log(sudip.currentMission()); // Building tomorrow's tech today
 <img src="https://skillicons.dev/icons?i=typescript,nextjs,mongodb,redis,aws,graphql&theme=dark" />
 
 </div>
----
+
 
 ## 📊 **BATTLEFIELD STATISTICS**
 
@@ -82,6 +82,50 @@ console.log(sudip.currentMission()); // Building tomorrow's tech today
 </div>
 
 ---
+
+## 🎯 **CURRENT MISSION BRIEFING**
+
+<div align="center">
+
+### 🔥 **Active Sprint - Q2 2025 Strategic Focus**
+
+```mermaid
+flowchart TD
+    A["🚀 SYSTEM ARCHITECTURE<br/>MASTERY"] --> B["Scalable Design<br/>Patterns"]
+    A --> C["Microservices<br/>Excellence"]
+    
+    D["🌟 OPEN SOURCE<br/>IMPACT"] --> E["React/Next.js<br/>Contributions"]
+    D --> F["Developer Tools<br/>Launch"]
+    
+    G["👥 COMMUNITY<br/>LEADERSHIP"] --> H["Mentor 50+<br/>Developers"]
+    G --> I["Technical Content<br/>Creation"]
+    
+    J["💡 INNOVATION<br/>LAB"] --> K["AI-Powered<br/>Solutions"]
+    J --> L["Performance<br/>Optimization"]
+    
+    B --> M["🎯 TECH LEADERSHIP<br/>EXCELLENCE"]
+    C --> M
+    E --> M
+    F --> M
+    H --> M
+    I --> M
+    K --> M
+    L --> M
+    
+    style A fill:#0D1117,stroke:#00D9FF,stroke-width:3px,color:#00D9FF,font-size:16px
+    style D fill:#0D1117,stroke:#00D9FF,stroke-width:3px,color:#00D9FF,font-size:16px
+    style G fill:#0D1117,stroke:#00D9FF,stroke-width:3px,color:#00D9FF,font-size:16px
+    style J fill:#0D1117,stroke:#00D9FF,stroke-width:3px,color:#00D9FF,font-size:16px
+    style B fill:#0D1117,stroke:#FFFFFF,stroke-width:2px,color:#FFFFFF,font-size:14px
+    style C fill:#0D1117,stroke:#FFFFFF,stroke-width:2px,color:#FFFFFF,font-size:14px
+    style E fill:#0D1117,stroke:#FFFFFF,stroke-width:2px,color:#FFFFFF,font-size:14px
+    style F fill:#0D1117,stroke:#FFFFFF,stroke-width:2px,color:#FFFFFF,font-size:14px
+    style H fill:#0D1117,stroke:#FFFFFF,stroke-width:2px,color:#FFFFFF,font-size:14px
+    style I fill:#0D1117,stroke:#FFFFFF,stroke-width:2px,color:#FFFFFF,font-size:14px
+    style K fill:#0D1117,stroke:#FFFFFF,stroke-width:2px,color:#FFFFFF,font-size:14px
+    style L fill:#0D1117,stroke:#FFFFFF,stroke-width:2px,color:#FFFFFF,font-size:14px
+    style M fill:#0D1117,stroke:#FF6B6B,stroke-width:4px,color:#FF6B6B,font-size:18px
+```
 
 ## 🚀 **PROJECT SHOWCASE TERMINAL**
 
@@ -115,7 +159,6 @@ sudip@github:~$ echo "More epic projects loading..."
 More epic projects loading...
 ```
 
----
 
 
 ---
@@ -139,7 +182,6 @@ More epic projects loading...
 </div>
 
 
----
 
 
 ## 🤝 Let's Connect!
@@ -159,23 +201,6 @@ More epic projects loading...
 
 </div>
 
-## 🎮 **ACHIEVEMENT UNLOCKED**
-
-<div align="center">
-  
-### 🏅 **Current Achievements**
-- 💻 **Code Warrior**: 100+ commits and counting
-- 🧠 **Algorithm Ninja**: Solved 50+ complex problems
-- 🌟 **Open Source Hero**: Contributing to community projects
-- 🚀 **Innovation Master**: Building next-gen solutions
-
-### 🎯 **Next Level Goals**
-- 🏆 Contribute to major open-source projects
-- 📚 Master system design and architecture
-- 🌐 Build applications that impact millions
-- 👨‍🏫 Mentor the next generation of developers
-
-</div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284175-f47d97f4-11ff-4986-ade6-7cd5b27a6e7b.gif" width="400">
