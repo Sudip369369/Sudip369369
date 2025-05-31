@@ -131,7 +131,7 @@ flowchart TD
     style L fill:#0D1117,stroke:#FFFFFF,stroke-width:2px,color:#FFFFFF,font-size:14px
     style M fill:#0D1117,stroke:#FF6B6B,stroke-width:4px,color:#FF6B6B,font-size:18px
 ```
-
+</div>
 ## 🚀 **PROJECT SHOWCASE TERMINAL**
 
 ```bash
