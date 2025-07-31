@@ -48,7 +48,7 @@ console.log(sudip.currentMission()); // Building tomorrow's tech today
 <div align="center">
 
 ### 🚀 **Core Languages & Frameworks**
-<img src="https://skillicons.dev/icons?i=c,cpp,js,python,react,django,nodejs,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=c,cpp,js,python,react,nodejs,html,css&theme=dark" />
 
 ### 🛠️ **Development Ecosystem**
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,postman,figma,firebase&theme=dark" />
